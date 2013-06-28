@@ -16,7 +16,7 @@
   "main": "googlecdn.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/passy/google-cdn.git"
+    "url": "git://github.com/djz-code/google-cdn.git"
   },
   "scripts": {
     "test": "mocha"
